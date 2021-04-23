@@ -1,0 +1,11 @@
+{
+  "name": "code-wars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AhmadrezaHK/code-wars.git",
+  "author": "ahmadreza <ahmadrezahk23@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
